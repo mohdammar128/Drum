@@ -1,0 +1,83 @@
+body {
+  background-color: #182747;
+}
+
+  
+  
+  
+
+
+h1 {
+  text-align: center;
+  color: #dfe9e6;
+  font-size: 50px;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: "monospace";
+}
+
+button {
+  font-size: 100px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+  width: 150px;
+  height: 150px;
+  color: #ff058e;
+  margin-top: 200px;
+}
+
+#btn-1 {
+  position: relative;
+  left: 300px;
+  border: 5px solid  #cf1313;
+  border-radius: 10px;
+  background-image: url("/img/drum/tom1.png");
+}
+
+#btn-2 {
+  position: relative;
+  left: 300px;
+  border: 5px solid  #cf1313;
+  border-radius: 10px;
+  background-image: url("/img/drum/tom2.png");
+}
+
+#btn-3 {
+  position: relative;
+  left: 300px;
+  border: 5px solid  #cf1313;
+  border-radius: 10px;
+  background-image: url("/img/drum/tom3.png");
+}
+
+#btn-4 {
+  position: relative;
+  left: 300px;
+  border: 5px solid  #cf1313;
+  border-radius: 10px;
+  background-image: url("/img/drum/tom4.png");
+}
+
+#btn-5 {
+  position: relative;
+  left: 300px;
+  border: 5px solid  #cf1313;
+  border-radius: 10px;
+  background-image: url("/img/drum/snare.png");
+}
+
+#btn-6 {
+  position: relative;
+  left: 300px;
+  border: 5px solid  #cf1313;
+  border-radius: 10px;
+  background-image: url("/img/drum/crash.png");
+}
+
+#btn-7 {
+  position: relative;
+  left: 300px;
+  border: 5px solid  #cf1313;
+  border-radius: 10px;
+  background-image: url("/img/drum/kick.png");
+}
+
